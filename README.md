@@ -42,16 +42,15 @@
         <tbody>
             <tr>
                 <td>01</td>
-                <td><a href="https://github.com/BVictorsk/Cards/tree/main/3D_Card">3D Card </a></td>
+                <td><a href="https://github.com/BVictorsk/Cards/tree/main/3D_Card" target="_blank">3D Card </a></td>
                 <td>30/04/23</td>
-                <td align="center">
-                <a href="https://github.com/BVictorsk/Cards/tree/main/3D_Card"><img width="300px" src="3D_Card/assets/3dCard.gif" /></a></td>
+                <td align="center"><img width="300px" src="3D_Card/assets/3dCard.gif" /></td>
             </tr>
             <tr>
                 <td>02</td>
-                <td><a href="https://github.com/BVictorsk/Cards/tree/main/3D_Flip_Card">3D Flip Card</a></td>
+                <td><a href="https://github.com/BVictorsk/Cards/tree/main/3D_Flip_Card" target="_blank">3D Flip Card</a></td>
                 <td>30/04/23</td>
-                <td align="center"><a href="https://github.com/BVictorsk/Cards/tree/main/3D_Flip_Card"><img width="300px" src="3D_Flip_Card/assets/Flip.gif" /></a></td>
+                <td align="center"><img width="300px" src="3D_Flip_Card/assets/Flip.gif" /></td>
             </tr>
         </tbody>
     </table>
