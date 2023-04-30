@@ -45,13 +45,13 @@
                 <td><a href="01">3D Card </a></td>
                 <td>30/04/23</td>
                 <td align="center">
-                <a href="01"><img width="300px" src="3D_Card/assets/3dCard.gif" /></a></td>
+                <a href="https://github.com/BVictorsk/Cards/tree/main/3D_Card"><img width="300px" src="3D_Card/assets/3dCard.gif" /></a></td>
             </tr>
             <tr>
                 <td>02</td>
                 <td><a href="02">3D Flip Card</a></td>
                 <td>30/04/23</td>
-                <td align="center"><a href="02"><img width="300px" src="3D_Flip_Card/assets/Flip.gif" /></a></td>
+                <td align="center"><a href="https://github.com/BVictorsk/Cards/tree/main/3D_Flip_Card"><img width="300px" src="3D_Flip_Card/assets/Flip.gif" /></a></td>
             </tr>
         </tbody>
     </table>
