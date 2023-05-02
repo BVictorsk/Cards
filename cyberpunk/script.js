@@ -1,15 +1,22 @@
 const toggleButton = document.getElementById('toggle-button');
-const cardImage = document.querySelector('.card-image');
-const cardText = document.querySelector('.card-text');
+const cardContent = document.querySelector('.card-content');
+const cardContentMore = document.querySelector('.card-content-more');
 
-toggleButton.addEventListener('click', function() {
-  if (toggleButton.textContent === 'See More') {
-    toggleButton.textContent = 'Go Back';
-    cardImage.classList.add('remove-image');
-    cardText.classList.add('glitch-effect');
-  } else {
+toggleButton.addEventListener('click', () => {
+  if (cardContent.style.display === 'none') {
+    cardContent.style.display = 'flex';
+    cardContentMore.style.display = 'none';
     toggleButton.textContent = 'See More';
-    cardImage.classList.remove('remove-image');
-    cardText.classList.remove('glitch-effect');
+  } else {
+    cardContent.style.display = 'none';
+    cardContentMore.style.display = 'flex';
+    toggleButton.textContent = 'See Less';
   }
+});
+
+const toggleButtonMore = document.querySelector('.card-content-more #toggle-button');
+toggleButtonMore.addEventListener('click', () => {
+  cardContent.style.display = 'flex';
+  cardContentMore.style.display = 'none';
+  toggleButton.textContent = 'See More';
 });

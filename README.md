@@ -1,7 +1,7 @@
 # Cards
 
 <p align="center">
-    Projeto Cards
+    Project Cards
     <br>
     <br>
     <table>
