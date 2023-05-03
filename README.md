@@ -52,6 +52,12 @@
                 <td>30/04/23</td>
                 <td align="center"><img width="300px" src="3D_Flip_Card/assets/Flip.gif" /></td>
             </tr>
+            <tr>
+                <td>03</td>
+                <td><a href="https://github.com/BVictorsk/Cards/tree/main/cyberpunk" target="_blank">Polygon Card - Cyberpunk</a></td>
+                <td>30/04/23</td>
+                <td align="center"><img width="300px" src="cyberpunk/assets/cyber.gif" /></td>
+            </tr>
         </tbody>
     </table>
 </p>
