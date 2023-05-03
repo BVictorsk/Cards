@@ -58,6 +58,12 @@
                 <td>30/04/23</td>
                 <td align="center"><img width="300px" src="cyberpunk/assets/cyber.gif" /></td>
             </tr>
+            <tr>
+                <td>04</td>
+                <td><a href="https://github.com/BVictorsk/Cards/tree/main/profile_Card" target="_blank">Profile Card</a></td>
+                <td>30/04/23</td>
+                <td align="center"><img width="300px" src="profile_Card/assets/profile.gif" /></td>
+            </tr>
         </tbody>
     </table>
 </p>
