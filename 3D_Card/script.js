@@ -35,6 +35,7 @@ const throttle = (cb, delay) => {
 }
 
 const updateMousePosition = throttle((e) => {
+  console.log(e.offsetX, e.offsetY);
   const x = ((e.offsetX / cardWidth) - 0.5) * 90 * INTENSITY;
   const y = ((e.offsetY / cardHeight) - 0.5) * 90 * INTENSITY;
 
@@ -68,3 +69,5 @@ card.addEventListener('mouseleave', () => {
     documentStyle.setProperty('--y', 0 + 'deg');
   };
 })
+
+

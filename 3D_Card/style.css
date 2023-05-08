@@ -1,4 +1,12 @@
-* { font-family: sans-serif; margin: 0; padding: 0 }
+:root {
+  font-size: 62.5%;
+}
+
+* { 
+  font-family: sans-serif;
+  margin: 0; 
+  padding: 0 
+}
 
 body {
   display: flex;
@@ -9,24 +17,23 @@ body {
 }
 
 .card {
-  width: 200px;
-  height: 300px;
+  width: 20rem;
+  height: 30rem;
   position: relative;
-  perspective: 600px;
+  perspective: 100rem;
   cursor: pointer;
 }
 
 .card-3d {
   width: 100%;
   height: 100%;
-  border-radius: 48px;
+  border-radius: 2rem;
   color: white;
   display: flex;
   align-items: center;
   justify-content: center;
   transform: rotateY(var(--x)) rotateX(var(--y));
   position: absolute;
-  border: 1px solid #fff;
   background: rgb(68,0,255);
   background: linear-gradient(45deg, rgba(68,0,255,1) 0%, rgba(132,0,255,1) 25%, rgba(179,0,255,1) 50%, rgba(132,0,255,1) 75%, rgba(68,0,255,1) 100%);
 
@@ -43,3 +50,4 @@ body {
   justify-content: center;
   border: 1px solid #fff;
 }
+

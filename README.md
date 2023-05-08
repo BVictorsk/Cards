@@ -21,14 +21,6 @@
                         </small>
                     </p>
                 </th>
-                <th align="left">
-                    <img width="140" height="1">
-                    <p align="left"> 
-                        <small>
-                        RELEASE DATE
-                        </small>
-                    </p>
-                </th>
                 <th align="center">
                     <img width="201" height="1">
                     <p align="center"> 
@@ -43,25 +35,26 @@
             <tr>
                 <td>01</td>
                 <td><a href="https://github.com/BVictorsk/Cards/tree/main/3D_Card" target="_blank">3D Card </a></td>
-                <td>30/04/23</td>
                 <td align="center"><img width="300px" src="3D_Card/assets/3dCard.gif" /></td>
             </tr>
             <tr>
                 <td>02</td>
                 <td><a href="https://github.com/BVictorsk/Cards/tree/main/3D_Flip_Card" target="_blank">3D Flip Card</a></td>
-                <td>30/04/23</td>
                 <td align="center"><img width="300px" src="3D_Flip_Card/assets/Flip.gif" /></td>
             </tr>
             <tr>
                 <td>03</td>
-                <td><a href="https://github.com/BVictorsk/Cards/tree/main/cyberpunk" target="_blank">Polygon Card - Cyberpunk</a></td>
-                <td>30/04/23</td>
-                <td align="center"><img width="300px" src="cyberpunk/assets/cyber.gif" /></td>
+                <td><a href="https://github.com/BVictorsk/Cards/tree/main/credit_Card" target="_blank">Profile Card - Hover</a></td>
+                <td align="center"><img width="300px" src="credit_Card/assets/Credit.PNG" /></td>
             </tr>
             <tr>
                 <td>04</td>
+                <td><a href="https://github.com/BVictorsk/Cards/tree/main/cyberpunk" target="_blank">Polygon Card - Cyberpunk</a></td>
+                <td align="center"><img width="300px" src="cyberpunk/assets/cyber.gif" /></td>
+            </tr>
+            <tr>
+                <td>05</td>
                 <td><a href="https://github.com/BVictorsk/Cards/tree/main/profile_Card" target="_blank">Profile Card</a></td>
-                <td>30/04/23</td>
                 <td align="center"><img width="300px" src="profile_Card/assets/profile.gif" /></td>
             </tr>
         </tbody>

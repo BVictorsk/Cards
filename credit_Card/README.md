@@ -1,4 +1,10 @@
 # Credit Card
+<p>
+This is an HTML and CSS code snippet for a credit card design.
+</p>
+<br/>
+<img width="300px" src="./assets/Credit.PNG" />
+<br/>
 
 ## Core Technologies
 <div style="display: inline_block">
