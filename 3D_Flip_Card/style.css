@@ -47,7 +47,7 @@ body {
 
 .flip .image, .flip h2, .flip p,
 .flip h4, .flip button {
-    transform: translateZ(90px);
+    transform: translateZ(40px);
     text-shadow: 0 0 3px black;
     text-align: center;
 }
